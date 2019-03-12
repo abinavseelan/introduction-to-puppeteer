@@ -1,7 +1,7 @@
 {
   "name": "introduction-to-puppeteer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demos for the Knowledge Sharing Session on Puppeteer held at Flipkart, 12th March 2019",
   "main": "-",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
